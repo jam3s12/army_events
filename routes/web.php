@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 // Editted
+// Editted by groupmate
 Route::get('/', function () {
     return view('welcome');
 });
